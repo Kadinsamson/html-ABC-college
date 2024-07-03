@@ -27,5 +27,10 @@ There should be an appropriate description of the college on the home page.
 ![gallery](https://github.com/Kadinsamson/html-ABC-college/assets/94525955/45eefa8a-3706-4508-9989-512b2a235a8b)
 
 
+# Assignment 1:
+![myday](https://github.com/Kadinsamson/html-ABC-college/assets/94525955/b2d61c18-a4ea-46b1-9a4f-d318a7b49959)
+
+
+
 
 
